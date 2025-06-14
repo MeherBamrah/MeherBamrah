@@ -7,7 +7,7 @@
 
 ---
 
-#💻 What I’m Up To
+💻 What I’m Up To
 
 - 🐍 Deep diving into Python and its powerful libraries (Pandas, NumPy, Flask, Django, and more)
 - 🌐 Developing web apps that are fast, scalable, and user-friendly
