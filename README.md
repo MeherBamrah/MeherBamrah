@@ -1,5 +1,4 @@
-
-#<h1 align="center">🌸 Hey there, I'm Meher Bamrah!</h1>
+<h1 align="center">🌸 Hey there, I'm Meher Bamrah!</h1>
 
 <p align="center">
   <b>Python Developer | Web Enthusiast | Lifelong Learner</b><br>
@@ -33,11 +32,9 @@ They’re made with effort, curiosity, and care. 💡💛
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E42&center=true&vCenter=true&width=435&lines=Design+is+my+superpower!;Always+learning%2C+always+growing.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E42&center=true&vCenter=true&width=435&lines=Design+is+my+superpower!; Always+learning%2C+always+growing.">
 </p>
 ---
-<p>Let's+build+something+amazing+together!</p>
----
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <i>Let's build something amazing together!</i>
 </p>
