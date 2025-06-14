@@ -1,18 +1,18 @@
-# Meher_Codez
-<h1 align="center">🌸 Hey there, I'm Meher Bamrah!</h1>
+
+#<h1 align="center">🌸 Hey there, I'm Meher Bamrah!</h1>
 
 <p align="center">
-  I craft delightful digital experiences, love learning new things, and thrive in creative communities.<br>
-  <b>Designing with empathy, curiosity, and a dash of fun!</b> 🎨✨
+  <b>Python Developer | Web Enthusiast | Lifelong Learner</b><br>
+  Building robust backends, crafting clean code, and always up for a new tech challenge!
 </p>
 
 ---
 
-## 🌱 What I’m Up To
+#💻 What I’m Up To
 
-- 🖌️ Currently designing seamless products & interfaces
-- 🚀 Always open to collaborations and creative sprints
-- 💡 Passionate about tech & design that make life better
+- 🐍 Deep diving into Python and its powerful libraries (Pandas, NumPy, Flask, Django, and more)
+- 🌐 Developing web apps that are fast, scalable, and user-friendly
+- 🚀 Open for collaborations, hackathons, and cool side projects
 
 ---
 
@@ -34,18 +34,11 @@ They’re made with effort, curiosity, and care. 💡💛
 
 ---
 
-## 🏅 Badge Board
-
-[![Holopin Badges](https://holopin.me/meherbamrah)](https://holopin.io/@meherbamrah)
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E42&center=true&vCenter=true&width=435&lines=Design+is+my+superpower!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing.">
 </p>
 
 ---
-
 <p align="center">
-  <i>“Design is intelligence made visible.” – Alina Wheeler</i>
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
 </p>
