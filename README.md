@@ -34,7 +34,7 @@ They’re made with effort, curiosity, and care. 💡💛
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E42&center=true&vCenter=true&width=435&lines=Design+is+my+superpower!;Always+learning+always+growing.">
 </p>
----
+
 <p align="center">
   <i>Let's build something amazing together!</i>
 </p>
