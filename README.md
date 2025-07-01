@@ -6,6 +6,10 @@
 </p>
 
 ---
+![](https://komarev.com/ghpvc/?username=MeherBamrah)
+```
+
+---
 
 💻 What I’m Up To
 
