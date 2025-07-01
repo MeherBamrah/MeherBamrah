@@ -5,7 +5,6 @@
   Building robust backends, crafting clean code, and always up for a new tech challenge!
 </p>
 
----
 ![](https://komarev.com/ghpvc/?username=MeherBamrah)
 
 ---
