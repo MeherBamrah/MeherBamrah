@@ -7,7 +7,6 @@
 
 ---
 ![](https://komarev.com/ghpvc/?username=MeherBamrah)
-```
 
 ---
 
