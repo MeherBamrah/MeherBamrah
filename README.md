@@ -1,7 +1,7 @@
-<h1 align="center">🌸 Hey there, I'm Meher Bamrah!</h1>
+<h1 align="center">🌸 Hey there, I'm Meher Bamrah! </h1>
 
 <p align="center">
-  <b>Python Developer | Web Enthusiast | Lifelong Learner</b><br>
+  <b>Python Developer | Lifelong Learner</b><br>
   Building robust backends, crafting clean code, and always up for a new tech challenge!
 </p>
 
