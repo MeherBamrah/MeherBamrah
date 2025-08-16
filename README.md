@@ -1,11 +1,13 @@
 <h1 align="center">🌸 Hey there, I'm Meher Bamrah! </h1>
 
 <p align="center">
-  <b>Python Developer | Lifelong Learner</b><br>
+  <b>Python Developer | Lifelong Learner | Tech Enthusiast</b><br>
   Building robust backends, crafting clean code, and always up for a new tech challenge!
 </p>
 
-![](https://komarev.com/ghpvc/?username=MeherBamrah)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MeherBamrah" alt="Profile views"/>
+</p>
 
 ---
 
@@ -14,6 +16,39 @@
 - 🐍 Deep diving into Python and its powerful libraries (Pandas, NumPy, Flask, Django, and more)
 - 🌐 Developing web apps that are fast, scalable, and user-friendly
 - 🚀 Open for collaborations, hackathons, and cool side projects
+- 📚 Learning about AI/ML and integrating smart features into real-world applications
+- 🛠️ Exploring DevOps and automation with tools like Docker & GitHub Actions
+- ✍️ Writing tech blogs and sharing knowledge with the community
+
+---
+
+## ✨ GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeherBamrah&show_icons=true&theme=radical" alt="MeherBamrah's GitHub stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeherBamrah&theme=radical" alt="GitHub Streak" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MeherBamrah&theme=github-compact" alt="GitHub Activity Graph" width="800"/>
+</p>
+
+---
+
+## 🔧 My Tech Toolbox
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
+</div>
 
 ---
 
@@ -23,6 +58,8 @@ Find me where the vibes are right:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meherbamrah/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:meherbamrah@gmail.com)
 
 ---
 
@@ -31,10 +68,21 @@ Find me where the vibes are right:
 Check out my pinned projects right here on GitHub!  
 They’re made with effort, curiosity, and care. 💡💛
 
+Or browse my [portfolio website](#) for more in-depth case studies and demos.
+
+---
+
+## 🏆 Achievements & Highlights
+
+- 🏅 Participated and won at multiple hackathons
+- 🥇 Built an end-to-end web app featured in a tech magazine
+- 📝 Published articles on Python and backend development
+- 👩‍💻 Contributed to open-source projects and helped fix bugs
+
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E42&center=true&vCenter=true&width=435&lines=Design+is+my+superpower!;Always+learning+always+growing.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F59E42&center=true&vCenter=true&width=435&lines=Design+is+my+superpower!;Always+learning+always+growing;Let's+build+something+amazing+together!" alt="Typing SVG" />
 </p>
 
 <p align="center">
