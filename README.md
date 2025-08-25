@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MeherBamrah&show_icons=true&theme=radical" alt="MeherBamrah's GitHub stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeherBamrah&theme=radical" alt="GitHub Streak" width="400"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MeherBamrah&theme=github-compact" alt="GitHub Activity Graph" width="800"/>
 </p>
