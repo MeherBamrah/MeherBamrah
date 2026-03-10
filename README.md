@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Python Developer | Lifelong Learner | Tech Enthusiast</b><br>
-  Building robust backends, crafting clean code, and always up for a new tech challenge!
+  Code that blooms like a sunflower!!
 </p>
 
 <p align="center">
